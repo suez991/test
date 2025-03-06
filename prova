@@ -1,4 +1,10 @@
-Shell
+
+
+u3V5g8iB
+
+
+
+OkShell
 sudo add-apt-repository ppa:lestcape/cinnamon
 sudo apt-get update && sudo apt-get install cinnamon
 
